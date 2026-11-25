@@ -13,6 +13,8 @@ instancias** de Render detrás de un **balanceador nginx** con **alta disponibil
 virtual flotante). El mismo balanceador reparte el tráfico de dos sitios WordPress y dos Joomla en máquinas
 virtuales.
 
+![TechStore 360](docs/img/portada.png)
+
 ## Arquitectura
 
 ```mermaid

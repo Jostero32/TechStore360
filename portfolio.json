@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "titulo": "TechStore 360",
+  "resumen": "API REST desplegada en dos instancias detrás de un balanceador nginx con alta disponibilidad (keepalived), conmutación de base de datos, autenticación con Firebase y facturación por SOAP.",
+  "categorias": ["backend", "distribuidos"],
+  "stack": ["Python", "Flask", "nginx", "Keepalived", "PostgreSQL", "Firebase", "SOAP", "Render", "Docker"],
+  "estado": "Desplegado (proyecto académico)",
+  "destacado": false,
+  "anio": 2026,
+  "rol": "API y balanceador",
+  "portada": null,
+  "capturas": [],
+  "aspectos": [
+    "Balanceo entre dos instancias de Render con puentes por cabecera Host",
+    "IP virtual flotante MASTER/BACKUP con keepalived",
+    "Conmutación automática a la base de respaldo"
+  ],
+  "demo": null
+}

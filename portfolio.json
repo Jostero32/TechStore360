@@ -6,6 +6,7 @@
   "stack": ["Python", "Flask", "nginx", "Keepalived", "PostgreSQL", "Firebase", "SOAP", "Render", "Docker"],
   "estado": "Desplegado (proyecto académico)",
   "destacado": true,
+  "orden": 5,
   "anio": 2026,
   "rol": "API y balanceador",
   "portada": "docs/img/portada.png",
